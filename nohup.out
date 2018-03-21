@@ -1,0 +1,5 @@
+
+> johntotherescue.com@0.1.0 start /home/ubuntu/johntotherescue.com
+> set PORT=80 && node scripts/start.js
+
+Admin permissions are required to run a server on a port below 1024.
